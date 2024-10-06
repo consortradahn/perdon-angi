@@ -1,0 +1,15 @@
+
+body{
+    background-color: #0b1522;
+}
+.contenedor{
+    background-color:red;
+    border: 5px  #2D3307 solid;
+    width: 1000px;
+    height: 900px;
+    margin: auto;   
+}
+section{
+    margin-left: 910px;
+    margin-top: -500px;
+}
